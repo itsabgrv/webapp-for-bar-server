@@ -6,7 +6,7 @@ from telegram import Update, BotCommand, WebAppInfo, MenuButtonWebApp
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import os
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("7651271495:AAFrdL7sxLEx0dcvCTsJr73uabpeZ38oYng")
 
 # Инициализация FastAPI
 app = FastAPI()
